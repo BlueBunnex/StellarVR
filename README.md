@@ -6,3 +6,5 @@ Unity assets for VR on mobile devices (iOS and Android)
 - Relevant prefabs (pre-setup headset rig)
 - A demo scene that demonstrates everything in the current version
 - More to come...
+
+![Image showing the demo scene included in v0.1](example1.png)
