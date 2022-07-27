@@ -3,7 +3,7 @@ Unity assets for developing VR on mobile devices (iOS and Android).
 
 My goal with this is to make development for VR more accessible by providing the framework to be built upon by the developer. As a Mac user and programmer, VR has always been just out of reach for me. Especially with the lack of quality VR games on the mobile market, I want to provide an opportunity for others in my situation to produce more VR content and grow the VR community.
 
-Contact me @kitsumitsu46 on Twitter for feedback and suggestions.
+Contact me @kitsumitsu46 on Twitter for any suggestions or feedback.
 
 ## How to install?
 
