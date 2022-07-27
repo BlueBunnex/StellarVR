@@ -6,7 +6,7 @@ My goal with this is to make development for VR more accessible by providing the
 ## How to install?
 
 - Download *StellarVR.unitypackage* from the Github and import into your Unity project
-- To import, navigate to **Assets > Import Package > Custom Package...** and select *StellarVR.unitypackage* from the file navigator.
+- To import, navigate to **Assets > Import Package > Custom Package...** and select *StellarVR.unitypackage* from the file navigator
 
 I forgot to put the license in the unitypackage, so until I do that make sure to download that as well <3
 
