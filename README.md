@@ -1,11 +1,11 @@
 # StellarVR v0.1
 Unity assets for VR on mobile devices (iOS and Android).
 
-# How to install?
+## How to install?
 
-Just download StellarVR.unitypackage from the Github and import into your Unity project. To import, navigate to Assets > Import Package > Custom Package... and select StellarVR.unitypackage from the file navigator.
+Just download *StellarVR.unitypackage* from the Github and import into your Unity project. To import, navigate to **Assets > Import Package > Custom Package...** and select *StellarVR.unitypackage* from the file navigator.
 
-# What's included?
+## What's included?
 Currently included:
 - Script for controlling basic headset movement and binocular vision (3-DOF, includes adjustable FOV and IPD)
 - Relevant prefabs (pre-setup headset rig)
