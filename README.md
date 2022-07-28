@@ -9,7 +9,7 @@ Contact me [@kitsumitsu46](https://twitter.com/kitsumitsu46) on Twitter with any
 
 - Download *StellarVR.unitypackage* from the Github and import into your Unity project
 - To import, navigate to **Assets > Import Package > Custom Package...** and select *StellarVR.unitypackage* from the file navigator
-- Optionally, open the demo scene and export it onto your mobile device to make sure everything is working.
+- Optionally, open the demo scene and export it onto your mobile device to make sure everything is working
 
 I forgot to put the license in the unitypackage, so until I do that make sure to download that as well <3
 
