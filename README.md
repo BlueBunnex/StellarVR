@@ -21,6 +21,7 @@ I forgot to put the license in the unitypackage, so until I do that make sure to
 - A demo scene that demonstrates everything in the current version
 ###### What is planned:
 - Point-and-click system (with laser pointer)
+  - Compatible with capacitive or time-based 
 - Fixing the click and drag controls in the editor
 - Some sort of VR controller support...?
 
