@@ -22,5 +22,6 @@ I forgot to put the license in the unitypackage, so until I do that make sure to
 ###### What is planned:
 - Point-and-click system (with laser pointer)
 - Fixing the click and drag controls in the editor
+- Rudimentary hand/controller/anything-in-the-real-world position detection (with camera)
 
 ![Image showing the demo scene included in v0.1](example1.png)
