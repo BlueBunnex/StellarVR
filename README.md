@@ -1,3 +1,4 @@
+![the StellarVR logo](logo.png)
 # StellarVR v0.1
 Unity assets for developing VR on mobile devices (iOS and Android).
 
@@ -25,4 +26,4 @@ I forgot to put the license in the unitypackage, so until I do that make sure to
 - Fixing the click and drag controls in the editor
 - Some sort of VR controller support...?
 
-![Image showing the demo scene included in v0.1](example1.png)
+![Image depicting the demo scene included in v0.1](example1.png)
